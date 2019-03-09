@@ -9,11 +9,22 @@ h1 {
   color: black;
 }
 
-#viz div {
-  font: 10px sans-serif;
-  background-color: steelblue;
-  text-align: right;
-  padding: 3px;
-  margin: 1px;
-  color: white;
+#viz {
+  border: 1px solid black;
+}
+
+circle.tows {
+  stroke-width: 1;
+}
+
+.armatage {
+  fill: #7fc97f;
+}
+
+.yale {
+  fill: #beaed4;
+}
+
+.quincy {
+  fill: #fdc086;
 }
